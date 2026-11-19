@@ -1,0 +1,19 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+1,Ana Torres,22,F,ana.torres@uao.edu.co,2004-03-15
+2,Luis Méndez,25,M,luis.mendez@uao.edu.co,2001-07-22
+3,Sofía Ramírez,21,F,sofia.ramirez@uao.edu.co,2005-01-10
+4,Diego Morales,28,M,diego.morales@uao.edu.co,1998-11-04
+5,Valentina Rojas,23,F,valentina.rojas@uao.edu.co,2003-05-19
+6,Andrés Castro,30,M,andres.castro@uao.edu.co,1996-09-28
+7,Camila Herrera,24,,camila.herrera@uao.edu.co,2002-02-14
+8,Mateo Vargas,26,M,mateo.vargas@uao.edu.co,2000-08-30
+9,Isabella Ortiz,20,F,isabella.ortiz@uao.edu.co,2006-04-12
+10,Sebastián Silva,27,M,sebastian.silva@uao.edu.co,1999-12-01
+11,Mariana Gómez,22,Otro,mariana.gomez@uao.edu.co,2004-06-25
+12,Alejandro Ruiz,31,M,alejandro.ruiz@uao.edu.co,1995-10-17
+13,Lucía Mendoza,23,F,lucia.mendoza@uao.edu.co,2003-08-08
+14,Daniela Navarro,25,F,daniela.navarro@uao.edu.co,2001-01-29
+15,Carlos Peña,29,M,carlos.pena@uao.edu.co,1997-03-03
+16,Paula Jiménez,24,,paula.jimenez@uao.edu.co,2002-09-11
+17,Jorge Romero,33,M,jorge.romero@uao.edu.co,1993-07-07
+18,Natalia Álvarez,21,F,natalia.alvarez@uao.edu.co,2005-11-23

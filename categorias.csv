@@ -1,0 +1,16 @@
+codigo,nombre,descripcion
+CAT01,Programación,Desarrollo de software y lenguajes de programación
+CAT02,Ciencia de Datos,"Análisis de datos, estadística y machine learning"
+CAT03,Bases de Datos,Diseño y gestión de bases de datos relacionales y NoSQL
+CAT04,Desarrollo Web,"Frontend, backend y arquitecturas web modernas"
+CAT05,Ciberseguridad,"Seguridad informática, pentesting y protección de redes"
+CAT06,Inteligencia Artificial,"Redes neuronales, deep learning y procesamiento de lenguaje"
+CAT07,Cloud Computing,"Infraestructura en la nube, contenedores y DevOps"
+CAT08,Diseño UX/UI,Experiencia de usuario e interfaces digitales
+CAT09,Marketing Digital,"SEO, analítica web y estrategias digitales"
+CAT10,Gestión de Proyectos,"Metodologías ágiles, Scrum y liderazgo"
+CAT11,Desarrollo Móvil,Aplicaciones nativas y multiplataforma para iOS y Android
+CAT12,Blockchain,"Criptografía, contratos inteligentes y tecnologías distribuidas"
+CAT13,Redes y Telecomunicaciones,"Arquitectura de redes, protocolos y conectividad"
+CAT14,Ingeniería de Software,"Arquitectura, patrones de diseño y pruebas"
+CAT15,Analítica de Negocios,Inteligencia empresarial y toma de decisiones
